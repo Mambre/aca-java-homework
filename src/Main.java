@@ -44,6 +44,7 @@ public class Main {
         float sum = firstElement + secondElement + thirdElement;
         System.out.println("sum is "+ sum %  3 );
 
+
     }
 
 }
